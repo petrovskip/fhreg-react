@@ -4,9 +4,6 @@ This is the demo react app of the national registry for familial hypercholestero
 # Intro
 The app allows the user to manage information on patients with familial hypercholesterolemia. There are three main components to the app: Patients' Records, Entering cases and Search and statistics. Each patient can have data for multiple check ups, with wich a probability score is calcualted and maintained trhough time. The score is also compared to a DLNC benchmark truogh REST services. 
 
-# Demo
-
-The demo can be found at https://fhreg.azurewebsites.net/
 
 # Disclosure
 
