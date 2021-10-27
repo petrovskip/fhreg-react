@@ -6,7 +6,7 @@ The app allows the user to manage information on patients with familial hypercho
 
 # Disclosure
 
-The react app is under MIT liscence. However, both the API and data procedures are not released under and open source liscence, making this app a demo and not in any case a production ready app.  
+The react app is under MIT liscence. However, both the API and data procedures are not released under and open source liscence, making this app a heavily modified demo and not in any case a production ready app.  
 
 # Libraries used
 
